@@ -4,7 +4,7 @@ Dark-Souls-III-Force-Any-Aspect-Ratio-FOV
 # !!!!!!!!!! Do not use online play with this mod !!!!!!!!!!
 
 # Special Thanks @ellekz: 
-- fix the fullscreen mode https://www.nexusmods.com/darksouls3/mods/1545
+- fix the fullscreen mode (included in zip) https://www.nexusmods.com/darksouls3/mods/1545
 
 -----------------------------------------------------
 
